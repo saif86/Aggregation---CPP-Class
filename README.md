@@ -1,4 +1,4 @@
-# Aggregation---CPP-Class-
+# Aggregation - C++ Class
 Implementing aggregation concept in C++ 
 
 ![slide1](https://user-images.githubusercontent.com/41892175/49843711-1114e200-fdfb-11e8-83f3-e24d0ab2b7af.PNG)
